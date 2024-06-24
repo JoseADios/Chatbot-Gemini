@@ -10,7 +10,7 @@ Para instalar las dependencias necesarias, ejecuta el siguiente comando:
 pip install genai
 ```
 
-## Configuración
+## ⚙️ Configuración
 Para configurar el proyecto, necesitarás una clave API de Google. Puedes obtenerla siguiendo las instrucciones en la documentación oficial de Google.
 
 Una vez que tengas la clave API, configura genai con la siguiente línea de código
